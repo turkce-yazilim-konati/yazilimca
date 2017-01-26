@@ -1,0 +1,2 @@
+Django Nedir?
+Django çözüm odaklı, uygulamaların hızlı ve temiz bir şekilde geliştirilmesini amaçlayan üst düzey Python web istekeletidir (web framework). Yani internet sitesi gibi web tabanlı uygulamalar geliştirmek amacıyla Python dili kullanarak hazırlanmış bir iskelettir (framework). Web uygulamalarının gelişimindeki çoğu angaryayı (sıkıntı/gereksiz yük) üstlenir, böylece tekerleği tekrar icat ettirmeden uygulamanızı geliştirmenizi sağlar. Üstelik ücretsiz ve açık kaynak kodludur.
