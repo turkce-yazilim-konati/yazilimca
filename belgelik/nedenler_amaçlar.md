@@ -27,8 +27,8 @@ Ardından neler doğacak? Türk dillerini öğrenmek isteyen yabancılar çoğal
 # Amaçlar
 
 - Yabancı dilde yazılabilen gerek İngilizce, gerek başka dilde olan yazılım dillerini Türkçe ile yazabildiğimiz bir gelecek kurmak.
--- Var olan bir yazılım dilini Türkçe ile yazabilmek.
--- Yazılım dilleri arasında çeviri alt yapısı oluşturmak.
+  - Var olan bir yazılım dilini Türkçe ile yazabilmek.
+  - Yazılım dilleri arasında çeviri alt yapısı oluşturmak.
 - Türkçeleştirmede titizce çalışıp Türkçeyi etkileyici biçimde kullanabilmek
 - Yazılım bilimine yenilikler katmak
 - Türkçe bilen değme kişinin yazılımcılık alanında etkili işler çıkarmasını sağlayabilmek
