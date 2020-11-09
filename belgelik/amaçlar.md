@@ -1,8 +1,8 @@
 # Amaçlar
 ## Neden Türkçe, Neden Türkçe Yazılım Dili?
-Türkçe denildiğinde yalnız Türkiyeyi düşünüyorsanız bilmediğiniz çok neη var demektir. 
+Türkçe denildiğinde yalnız bir iki ülkeyi düşünüyorsanız bilmediğiniz çok neη var demektir. 
 Yeryüzünde Türk dillerini **ana dili** olarak konuşan kişi sayısı **250.000.000**'dan daha çoktur. 
-Bir görüşe göre **350.000.000**'dan daha çoktur. Türk dillerini, yani Türkçeleri tek tek saymak gerekirse.
+Bir görüşe göre **350.000.000**'dan daha çoktur. Sayıca en çok konuşulan dillerin arasında yerini alır. Türk dillerini, yani Türkçeleri birbirine yakınlığı uzaklığı ayırt etmeden tek tek saymak gerekirse.
 
 - Türkiye Türkçesi
 - Azerbaycan Türkçesi
