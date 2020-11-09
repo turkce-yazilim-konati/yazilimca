@@ -1,4 +1,4 @@
-# Amaçlar
+# Nedenler Amaçlar
 Türkçe yazılım dili olamaz mı? Türkçe ile yazılım yazılamaz mı? Türkçe ile bilim yapılamaz mı? Bu sorulara yanıtlar veren dünyaca tanınmış bilimciler vardır. Gerek ana dili Türkçe olsun, gerek Türkçe olmasın Türkçe'nin kendisinden etkilenmişler ve yorumlarını dile getirmişlerdir. Bu kişilerden kimileri Johan VANDEWALLE, Oktay SİNANOĞLU, David CUTHELL, Ludwig WITTGENSTEIN idir. 
 
 ## Neden Türkçe, Neden Türkçe Yazılım Dili?
@@ -23,6 +23,25 @@ Kısaca değindiğimiz bu bilgileri doğru yorumlarsanız Türkçe yazılım dil
 Öncelikle dilimizin matematiğe en yakın dillerden olduğunu biliyoruz. Üstelik en eski dillerden. Bu nitelikleri ve özellikleri taşıyan dili yazılım alanında kullanmak en doğru adım olur. Yazılım dilleri İngilizce olur diyenler bir yana, Rusların 7, 8 dolaylarında yazılım dilinden tutun adını ilk kez işiteceğiniz dillerle kullanılan yazılım diline dek birçok dilde yazılım dili geliştirildi. Bu örneklere değinmesek bile Türk dilleri üzerinden yazılım dili kullanmamız gerekir. Bu kendimize bağlı bir bilim alanı oluşturmamız demektir. Gün yüzüne çıkmamış yeniliklerin kaynağı olmak istemez misiniz? Kendi sözlerimiz, kendi sözcüklerimiz...
 
 Ardından neler doğacak? Türk dillerini öğrenmek isteyen yabancılar çoğalacak. Türkçe öğretmenliğine bağlı amaçlar artacak. Türkçe bilindikçe iletişimimiz kolaylaşacak. Alanlar birbirine bağlanmaya başlayacak ve karşılıklı olarak elde edilen yararlar dolu dolu olacak. Ana dilimizle işlerimizi çıkardığımız için kendi aramızda anlaşılır olacağız. Bunlar buz dağının görünen yüzü. Ya görünmeyen yüzü?
+
+# Amaçlar
+
+- Yabancı dilde yazılabilen gerek İngilizce, gerek başka dilde olan yazılım dillerini Türkçe ile yazabildiğimiz bir gelecek kurmak.
+-- Var olan bir yazılım dilini Türkçe ile yazabilmek.
+-- Yazılım dilleri arasında çeviri alt yapısı oluşturmak.
+- Türkçeleştirmede titizce çalışıp Türkçeyi etkileyici biçimde kullanabilmek
+- Yazılım bilimine yenilikler katmak
+- Türkçe bilen değme kişinin yazılımcılık alanında etkili işler çıkarmasını sağlayabilmek
+- PYTHON dilini Türkçe kullanabilmek (Gelecekte öbür dilleri de bu özelliğe erdirmek)
+
+# Adımlar
+
+- Yazılım kavramlarını Türkçe olarak yeniden kurmak
+- PYTHON yazılımını Türkçeye uyarlamak, Türkçe yazıp çalıştırabilmek
+- İngilizce - Türkçe yazılım dili çevirilerini destekleyecek çalışmalar
+- Bağımsız adlandırmalara karşılık tanımlama kuralı kurmak
+- Ölçünleri (Standartları) belirlemek
+
 
 
 (ŋη)
