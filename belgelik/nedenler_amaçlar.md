@@ -3,10 +3,11 @@ Türkçe yazılım dili olamaz mı? Türkçe ile yazılım yazılamaz mı? Türk
 
 ## Neden Türkçe, Neden Türkçe Yazılım Dili?
 Türkçe denildiğinde yalnız bir iki ülkeyi düşünüyorsanız büyük bir yanılgıdasınız demektir. Öncelikle **Neden Türkçe?** sorusuna yanıt verseriz. Yeryüzünde **Türkçe**yi **ana dili**  olarak konuşan kişi sayısı bir görüşe göre 250.000.000 dolaylarında iken kimilerine göre 350.000.000'dan çoktur. Sayıca en çok konuşulan dillerin arasında yerini alır. Türk dillerini, yani Türkçeleri yakın uzak ayırt etmeden tek tek saymak gerekirse.
+![Türkiye](https://github.com/turkce-yazilim-konati/yazilimca/tree/master/belgelik/görseller/bayraklar/turkey.svg?raw=true)
 
 | Türkçeler           |                      |                     |                         |
 | :------------------ |:-------------------- | :------------------ | :---------------------- |
-| ![Türkiye | Türkeli | Turkey | Turkia | Turkiye](https://github.com/turkce-yazilim-konati/yazilimca/tree/master/belgelik/görseller/bayraklar/turkey.svg?raw=true)Türkiye Türkçesi    | Kalay/Halaç Türkçesi | Karakalpak Türkçesi | Uygur Türkçesi          |
+| Türkiye Türkçesi    | Kalay/Halaç Türkçesi | Karakalpak Türkçesi | Uygur Türkçesi          |
 | Azerbaycan Türkçesi | Yugur Türkçesi       | Nogay Türkçesi      | Çuvaş Türkçesi          |
 | Türkmen Türkçesi    | Yakut Türkçesi       | Sıbır Türkçesi      | Kırım-Tatar             |
 | Gagavuz Türkçesi    | Dolgan Türkçesi      | Horosan Türkçesi    | Kumuk Türkçesi          |
