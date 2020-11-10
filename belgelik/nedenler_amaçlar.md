@@ -4,14 +4,10 @@ Türkçe yazılım dili olamaz mı? Türkçe ile yazılım yazılamaz mı? Türk
 ## Neden Türkçe, Neden Türkçe Yazılım Dili?
 Türkçe denildiğinde yalnız bir iki ülkeyi düşünüyorsanız büyük bir yanılgıdasınız demektir. Öncelikle **Neden Türkçe?** sorusuna yanıt verseriz. Yeryüzünde **Türkçe**yi **ana dili**  olarak konuşan kişi sayısı bir görüşe göre 250.000.000 dolaylarında iken kimilerine göre 350.000.000'dan çoktur. Sayıca en çok konuşulan dillerin arasında yerini alır. Türk dillerini, yani Türkçeleri yakın uzak ayırt etmeden tek tek saymak gerekirse.
 
-[TR]: <img src="/belgelik/görseller/bayraklar/turkey.svg" height="32px" alt="TR: Türkiye / Türkeli">
-[AZ]: <img src="/belgelik/görseller/bayraklar/azerbaijan.svg" height="32px" alt="AZ: Azerbaycan">
-
-
 | Türkçeler           |                      |                     |                         |
 | :------------------ |:-------------------- | :------------------ | :---------------------- |
-| [TR]Türkiye Türkçesi    | Kalay/Halaç Türkçesi | Karakalpak Türkçesi | Uygur Türkçesi          |
-| [AZ]Azerbaycan Türkçesi | Yugur Türkçesi       | Nogay Türkçesi      | Çuvaş Türkçesi          |
+| <img src="/belgelik/görseller/bayraklar/turkey.svg" height="16px" alt="TR: Türkiye / Türkeli"> Türkiye Türkçesi    | Kalay/Halaç Türkçesi | Karakalpak Türkçesi | Uygur Türkçesi          |
+| <img src="/belgelik/görseller/bayraklar/azerbaijan.svg" height="16px" alt="AZ: Azerbaycan"> Azerbaycan Türkçesi | Yugur Türkçesi       | Nogay Türkçesi      | Çuvaş Türkçesi          |
 | Türkmen Türkçesi    | Yakut Türkçesi       | Sıbır Türkçesi      | Kırım-Tatar             |
 | Gagavuz Türkçesi    | Dolgan Türkçesi      | Horosan Türkçesi    | Kumuk Türkçesi          |
 | Kazak Türkçesi      | Hakas Türkçesi       | Kaşgay Türkçesi     | Karaçay-Balkar Türkçesi |
