@@ -8,12 +8,12 @@ Türkçe denildiğinde yalnız bir iki ülkeyi düşünüyorsanız büyük bir y
 | :------------------ |:-------------------- | :------------------ | :---------------------- |
 | <img src="/belgelik/görseller/bayraklar/turkey.svg" height="16px" alt="TR: Türkiye / Türkeli"> Türkiye Türkçesi    | Kalay/Halaç Türkçesi | Karakalpak Türkçesi | Uygur Türkçesi          |
 | <img src="/belgelik/görseller/bayraklar/azerbaijan.svg" height="16px" alt="AZ: Azerbaycan"> Azerbaycan Türkçesi | Yugur Türkçesi       | Nogay Türkçesi      | Çuvaş Türkçesi          |
-| <img src="/belgelik/görseller/bayraklar/turkmenistan.svg" height="16px" alt="TM: Türkmenistan / Türkmeneli">Türkmen Türkçesi    | Yakut Türkçesi       | Sıbır Türkçesi      | Kırım-Tatar             |
-| Gagavuz Türkçesi    | Dolgan Türkçesi      | Horosan Türkçesi    | Kumuk Türkçesi          |
-| <img src="/belgelik/görseller/bayraklar/kazakhstan.svg" height="16px" alt="KZ: Kazakistan / Kazakeli">Kazak Türkçesi      | Hakas Türkçesi       | Kaşgay Türkçesi     | Karaçay-Balkar Türkçesi |
-| <img src="/belgelik/görseller/bayraklar/kyrgyzstan.svg" height="16px" alt="KG: Kırgızistan / Kırgızeli">Kırgız Türkçesi     | Şor Türkçesi         | Afşar Türkçesi      | Karaim Türkçesi         |
-| Özbek Türkçesi      | Tuva Türkçesi        | Salar Türkçesi      | Çulim Türkçesi          |
-| Tatar Türkçesi      | Altay Türkçesi       | Başkurt Türkçesi    | -                       |
+| <img src="/belgelik/görseller/bayraklar/turkmenistan.svg" height="16px" alt="TM: Türkmenistan / Türkmeneli"> Türkmen Türkçesi    | Yakut Türkçesi       | Sıbır Türkçesi      | Kırım-Tatar             |
+| <img src="/belgelik/görseller/bayraklar/gagavuz.svg" height="16px" alt="?: Gagavuzya / Gagavuzeli"> Gagavuz Türkçesi    | Dolgan Türkçesi      | Horosan Türkçesi    | Kumuk Türkçesi          |
+| <img src="/belgelik/görseller/bayraklar/kazakhstan.svg" height="16px" alt="KZ: Kazakistan / Kazakeli"> Kazak Türkçesi      | Hakas Türkçesi       | Kaşgay Türkçesi     | Karaçay-Balkar Türkçesi |
+| <img src="/belgelik/görseller/bayraklar/kyrgyzstan.svg" height="16px" alt="KG: Kırgızistan / Kırgızeli"> Kırgız Türkçesi     | Şor Türkçesi         | Afşar Türkçesi      | Karaim Türkçesi         |
+| <img src="/belgelik/görseller/bayraklar/uzbekistan.svg" height="16px" alt="UZ: Özbekistan / Özbekeli"> Özbek Türkçesi      | Tuva Türkçesi        | Salar Türkçesi      | Çulim Türkçesi          |
+| Tatar Türkçesi      | Altay Türkçesi       | Başkurt Türkçesi    | Kuzey Kıbrıs Türkçesi            |
 
 İletişim çağının hiç olmadığı ölçüde geliştiği bu çağda Türkçeler de birbirine doğru yakınlaşmaya başladı. Türkçe'nin ortak söz varlığını bir araya getirmek için çalışan toplulukların varlığına değinseriz. Çok yakında bu söz varlığının dillendirilmesi ile karşı karşıya kalacağız... Yerleşim bölgeleri olarak bakarsak en doğumuzda Çin, Kore ve Japonya gibi türlü yönlerden büyüklüğü ile bildiğimiz ülkeler, en batımızda Amerika ve Avrupa ülkeleri, güneyimizde Arap Yarımadası ve Afrika ülkeleri, kuzeyimizde ise Rusya ve komşu ülkeleri yer alırken biz bunların arasında kalmış Türkçe konuşan kişileriz.
 
