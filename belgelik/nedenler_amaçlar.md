@@ -8,10 +8,10 @@ Türkçe denildiğinde yalnız bir iki ülkeyi düşünüyorsanız büyük bir y
 | :------------------ |:-------------------- | :------------------ | :---------------------- |
 | <img src="/belgelik/görseller/bayraklar/turkey.svg" height="16px" alt="TR: Türkiye / Türkeli"> Türkiye Türkçesi    | Kalay/Halaç Türkçesi | Karakalpak Türkçesi | Uygur Türkçesi          |
 | <img src="/belgelik/görseller/bayraklar/azerbaijan.svg" height="16px" alt="AZ: Azerbaycan"> Azerbaycan Türkçesi | Yugur Türkçesi       | Nogay Türkçesi      | Çuvaş Türkçesi          |
-| Türkmen Türkçesi    | Yakut Türkçesi       | Sıbır Türkçesi      | Kırım-Tatar             |
+| <img src="/belgelik/görseller/bayraklar/turkmenistan.svg" height="16px" alt="TM: Türkmenistan / Türkmeneli">Türkmen Türkçesi    | Yakut Türkçesi       | Sıbır Türkçesi      | Kırım-Tatar             |
 | Gagavuz Türkçesi    | Dolgan Türkçesi      | Horosan Türkçesi    | Kumuk Türkçesi          |
-| Kazak Türkçesi      | Hakas Türkçesi       | Kaşgay Türkçesi     | Karaçay-Balkar Türkçesi |
-| Kırgız Türkçesi     | Şor Türkçesi         | Afşar Türkçesi      | Karaim Türkçesi         |
+| <img src="/belgelik/görseller/bayraklar/kazakhstan.svg" height="16px" alt="KZ: Kazakistan / Kazakeli">Kazak Türkçesi      | Hakas Türkçesi       | Kaşgay Türkçesi     | Karaçay-Balkar Türkçesi |
+| <img src="/belgelik/görseller/bayraklar/kyrgyzstan.svg" height="16px" alt="KG: Kırgızistan / Kırgızeli">Kırgız Türkçesi     | Şor Türkçesi         | Afşar Türkçesi      | Karaim Türkçesi         |
 | Özbek Türkçesi      | Tuva Türkçesi        | Salar Türkçesi      | Çulim Türkçesi          |
 | Tatar Türkçesi      | Altay Türkçesi       | Başkurt Türkçesi    | -                       |
 
