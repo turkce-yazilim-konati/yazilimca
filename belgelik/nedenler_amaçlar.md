@@ -6,10 +6,10 @@ Türkçe denildiğinde yalnız bir iki ülkeyi düşünüyorsanız büyük bir y
 
 | Türkçeler           |                      |                     |                         |
 | :------------------ |:-------------------- | :------------------ | :---------------------- |
-| <img src="/belgelik/görseller/bayraklar/türkiye.svg" height="16px" alt="TR: Türkiye / Türkeli"> Türkiye Türkçesi    | Kalay/Halaç Türkçesi | Karakalpak Türkçesi | Uygur Türkçesi          |
-| <img src="/belgelik/görseller/bayraklar/azerbaycan.svg" height="16px" alt="AZ: Azerbaycan"> Azerbaycan Türkçesi | Yugur Türkçesi       | Nogay Türkçesi      | Çuvaş Türkçesi          |
-| <img src="/belgelik/görseller/bayraklar/türkmenistan.svg" height="16px" alt="TM: Türkmenistan / Türkmeneli"> Türkmen Türkçesi    | Yakut Türkçesi       | Sıbır Türkçesi      | Kırım-Tatar             |
-| <img src="/belgelik/görseller/bayraklar/gagavuz.svg" height="16px" alt="?: Gagavuzya / Gagavuzeli"> Gagavuz Türkçesi    | Dolgan Türkçesi      | Horosan Türkçesi    | Kumuk Türkçesi          |
+| <img src="/belgelik/görseller/bayraklar/türkiye.svg" height="16px" alt="TR: Türkiye / Türkeli"> Türkiye Türkçesi    | Kalay/Halaç Türkçesi | Karakalpak Türkçesi | <img src="/belgelik/görseller/bayraklar/uygur.svg" height="16px" alt="Uygur"> Uygur Türkçesi          |
+| <img src="/belgelik/görseller/bayraklar/azerbaycan.svg" height="16px" alt="AZ: Azerbaycan"> Azerbaycan Türkçesi | Yugur Türkçesi       | <img src="/belgelik/görseller/bayraklar/nogay.svg" height="16px" alt="Nogay"> Nogay Türkçesi      | Çuvaş Türkçesi          |
+| <img src="/belgelik/görseller/bayraklar/türkmenistan.svg" height="16px" alt="TM: Türkmenistan / Türkmeneli"> Türkmen Türkçesi    | <img src="/belgelik/görseller/bayraklar/yakut.gif" height="16px" alt="Yakutistan / Yakuteli"> Yakut Türkçesi       | Sıbır Türkçesi      | Kırım-Tatar             |
+| <img src="/belgelik/görseller/bayraklar/gagavuz.svg" height="16px" alt="?: Gagavuzya / Gagavuzeli"> Gagavuz Türkçesi    | Dolgan Türkçesi      | Horosan Türkçesi    | <img src="/belgelik/görseller/bayraklar/kumuk.jpg" height="16px" alt="Kumuk"> Kumuk Türkçesi          |
 | <img src="/belgelik/görseller/bayraklar/kazakistan.svg" height="16px" alt="KZ: Kazakistan / Kazakeli"> Kazak Türkçesi      | Hakas Türkçesi       | Kaşgay Türkçesi     | Karaçay-Balkar Türkçesi |
 | <img src="/belgelik/görseller/bayraklar/kırgızistan.svg" height="16px" alt="KG: Kırgızistan / Kırgızeli"> Kırgız Türkçesi     | Şor Türkçesi         | Afşar Türkçesi      | Karaim Türkçesi         |
 | <img src="/belgelik/görseller/bayraklar/özbekistan.svg" height="16px" alt="UZ: Özbekistan / Özbekeli"> Özbek Türkçesi      | Tuva Türkçesi        | Salar Türkçesi      | Çulim Türkçesi          |
