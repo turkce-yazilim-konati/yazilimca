@@ -6,7 +6,7 @@ Türkçe denildiğinde yalnız bir iki ülkeyi düşünüyorsanız büyük bir y
 
 | Türkçeler           |                      |                     |                         |
 | :------------------ |:-------------------- | :------------------ | :---------------------- |
-| Türkiye Türkçesi    | Kalay/Halaç Türkçesi | Karakalpak Türkçesi | Uygur Türkçesi          |
+| ![Türkiye | Türkeli | Turkey | Turkia | Turkiye](https://github.com/turkce-yazilim-konati/yazilimca/tree/master/belgelik/görseller/bayraklar/turkey.svg?raw=true)Türkiye Türkçesi    | Kalay/Halaç Türkçesi | Karakalpak Türkçesi | Uygur Türkçesi          |
 | Azerbaycan Türkçesi | Yugur Türkçesi       | Nogay Türkçesi      | Çuvaş Türkçesi          |
 | Türkmen Türkçesi    | Yakut Türkçesi       | Sıbır Türkçesi      | Kırım-Tatar             |
 | Gagavuz Türkçesi    | Dolgan Türkçesi      | Horosan Türkçesi    | Kumuk Türkçesi          |
