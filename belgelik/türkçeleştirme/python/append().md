@@ -1,5 +1,5 @@
 # "Append" kelimesinin isim kökeni aşağıdaki gibidir ;
-![GitHub Logo](https://drive.google.com/file/d/1u9piP-y4o_bSUqdxleUr4qq_RWKDOoWT/view?usp=sharing)<br>
+![GitHub Logo](/images/append.png)<br>
 #### Appendere>Apendre,Appendre>Appenden>Appenden,Apenden>Append<br>
 #### **"Append" kelimesi Türkçe'de "eklemek" anlamına gelir.**
 # append() Fonksiyonunun Yazılım Dillerindeki Kullanımı ;
