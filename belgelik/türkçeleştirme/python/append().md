@@ -15,4 +15,4 @@
   `$("p").append("<b>Appended text</b>");`<br>
 `});`<br>
 ### Çıktısı ;
-#### *Not: JavaScript'de bu kodun çıktısında bir button olacaktır.Her button'a tıkladığınızda 'Append text' ekleyecektir.*
+#### *Not:JavaScript'de bu kodun çıktısında bir button olacaktır.Her button'a tıkladığınızda 'Append text' ekleyecektir.*
