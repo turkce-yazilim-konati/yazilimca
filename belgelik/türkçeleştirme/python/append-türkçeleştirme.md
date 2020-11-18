@@ -1,8 +1,24 @@
-# "Append" sözcüğünün kökeni
+# Ön Bilgiler
+**Amaç:** Türkçeleştirme
+
+**Dil:** Python
+
+**Konu:** append()
+
+**Başlangıç Güngeni:** 18 Kasım 2020
+
+**Düzey:** Başlangıç
+
+# "append" Sözcüğünün Kökeni
 ![GitHub Logo](/belgelik/görseller/etimoloji/append.png)
 
-#### Appendere>Apendre,Appendre>Appenden>Appenden,Apenden>Append<br>
-#### **"Append" kelimesi Türkçe'de "eklemek" anlamına gelir.**
+- **ad-** + **pendere** (Latin + Latin) > **appendere** (Latin) > **append** (Geç Orta İngilizce)
+- appendere > apendre
+- appendre > appenden > Appenden
+- apenden > append
+
+**Append** sözcüğü Türkçede **eklemek, ulamak, katmak, iliştirmek gibi anlamlara gelir.**
+
 # append() Fonksiyonunun Yazılım Dillerindeki Kullanımı ;
 ## **PYTHON**
 ### Girdisi ;
