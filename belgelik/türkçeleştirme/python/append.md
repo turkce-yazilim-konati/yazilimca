@@ -18,6 +18,11 @@
 - apenden > append
 
 # append() Kullanımı
+
+**AÇIKLAMA**
+append() yöntemi dizme sonuna bir öğe ekler.
+(dizme = list)
+
 **GİRDİ**
 ```
 a = ["elma", "üzüm", "erik"]
