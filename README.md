@@ -4,5 +4,7 @@ Türkçe yazılım dillerinin geliştirilmesine yönelik işler çıkarıyoruz. 
 ### Facebook
 https://www.facebook.com/groups/815710512519539
 
+### Discord
+https://discord.gg/8ymtm9XPyQ
 ....
 ...
