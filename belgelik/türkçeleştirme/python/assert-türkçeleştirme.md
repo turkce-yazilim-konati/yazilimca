@@ -5,21 +5,29 @@
 #### **Assert fonksiyonu,belirli bir ifadenin doğru olup olmadığını test eder.**
 # assert() Fonksiyonunun Yazılım Dillerindeki Kullanımı ;
 ## **PYTHON**
-`x = "hello"`<br>
-`assert x == "hello"`<br>
-`assert x == "goodbye"`<br>
+```
+x = "hello"
+assert x == "hello"
+assert x == "goodbye"
+```
 ### Çıktısı ;
-`Traceback (most recent call last):`<br>
-  `File "demo_ref_keyword_assert.py", line 5, in <module>`<br>
-    `assert x == "goodbye"`<br>
-`AssertionError`
+```
+Traceback (most recent call last):
+  File "demo_ref_keyword_assert.py", line 5, in <module>
+    assert x == "goodbye"
+  AssertionError
+```
 ## **JAVA SCRİPT(Node.js)**
 *`assert(ifade,mesaj);` şeklinde kullanılır.*<br>
 ### Kullanımı ;
-`var assert = require('assert');`<br>
-`assert(50 > 70, "My message goes here");`<br>
+```
+var assert = require('assert');
+assert(50 > 70, "My message goes here");
+```
 ### Çıktısı ;
-`C:\Users\My Name>node assertnd.js`<br>
-`AssertionError: My message goes here`<br>
+```
+C:\Users\My Name>node assertnd.js
+AssertionError: My message goes here
+```
 
 
