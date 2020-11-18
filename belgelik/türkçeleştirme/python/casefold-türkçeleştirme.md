@@ -9,7 +9,7 @@
 #### Falden,Fealden>Fold
 #### "Fold" kelimesi Türkçe'de "katlamak" anlamına gelir.
 ### "Casefold" metodu `string` ifadelerde kullanılır."Casefold" `string` ifadelerinin içindeki her bir diziyi küçük harfe çevirir.
-# "Casefold" Metodunun Yazılım Dillerindeki Kullanımı ;
+# "Casefold()" Metodunun Yazılım Dillerindeki Kullanımı ;
 ## **PYTHON**
 *`string.casefold()`şeklinde kullanılır.*
 ### Girdisi ;
