@@ -3,7 +3,7 @@
 #### Bini>Binarius>Binary<br>
 #### **"Binary" kelimesi Türkçe'de "ikili,çift" anlamına gelir.**
 #### **Bin() metodu,belirli bir tamsayının ikili eşdeğer dizesini dönüştürür ve döndürür.**
-# assert() Fonksiyonunun Yazılım Dillerindeki Kullanımı ;
+# bin() Fonksiyonunun Yazılım Dillerindeki Kullanımı ;
 ## **PYTHON**
 *`bin(sayı)`şeklinde kullanılır.*<br>
 `sayı = 5`<br>
