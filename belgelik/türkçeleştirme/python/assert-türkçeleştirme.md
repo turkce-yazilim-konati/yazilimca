@@ -1,6 +1,6 @@
 # "Assert" kelimesinin isim kökeni aşağıdaki gibidir ;
 ![GitHub Logo](/belgelik/görseller/etimoloji/assert.png)<br>
-#### Assertus>Asserö>Assert<br>
+#### Assertus>Asserö>Asserere>Assert<br>
 #### **"Assert" kelimesi Türkçe'de "ikna etmek,ileri sürmek,savunmak" anlamına gelir.**
 #### **Assert fonksiyonu,belirli bir ifadenin doğru olup olmadığını test eder.**
 # assert() Fonksiyonunun Yazılım Dillerindeki Kullanımı ;
