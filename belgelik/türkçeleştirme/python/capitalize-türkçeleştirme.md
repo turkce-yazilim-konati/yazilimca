@@ -6,6 +6,7 @@
 # "Capitalize" Metodunun Yazılım Dillerindeki Kullanımı ;
 ## **PYTHON**
 *`string.capitalize()`şekilinde kullanılır.*
+### Girdisi ;
 ```
 txt = "merhaba, dünyama hoşgeldiniz."
 

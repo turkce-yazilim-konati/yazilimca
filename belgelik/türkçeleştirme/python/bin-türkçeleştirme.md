@@ -6,6 +6,7 @@
 # bin() Fonksiyonunun Yazılım Dillerindeki Kullanımı ;
 ## **PYTHON**
 *`bin(sayı)`şeklinde kullanılır.*<br>
+#### Girdisi ;
 ```
 sayı = 5
 print('5'in ikili eşdeğeri:', bin(sayı))

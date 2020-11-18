@@ -5,6 +5,7 @@
 #### **"Append" kelimesi Türkçe'de "eklemek" anlamına gelir.**
 # append() Fonksiyonunun Yazılım Dillerindeki Kullanımı ;
 ## **PYTHON**
+### Girdisi ;
 ```
 a = ["elma", "muz", "kiraz"]
 b = ["siyah", "beyaz", "mavi"]
@@ -14,6 +15,7 @@ print(a)
 ### Çıktısı ;
 `['elma', 'muz', 'kiraz', ["siyah", "beyaz", "mavi"]]`<br>
 ## **JAVA SCRİPT(JQuery)**
+### Girdisi ;
 ```
 $("button").click(function(){
   $("p").append("<b>Appended text</b>");

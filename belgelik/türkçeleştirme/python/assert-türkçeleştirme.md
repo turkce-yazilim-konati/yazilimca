@@ -5,6 +5,7 @@
 #### **Assert fonksiyonu,belirli bir ifadenin doğru olup olmadığını test eder.**
 # assert() Fonksiyonunun Yazılım Dillerindeki Kullanımı ;
 ## **PYTHON**
+### Girdisi ;
 ```
 x = "hello"
 assert x == "hello"
