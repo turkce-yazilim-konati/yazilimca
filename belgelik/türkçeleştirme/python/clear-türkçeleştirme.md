@@ -9,7 +9,7 @@
 
 **Düzey:** Başlangıç | Askıda | Bütülmüş
 
-# "???????" Sözcüğünün Kökeni
+# "clear" Sözcüğünün Kökeni
 ![Görsel](/belgelik/görseller/kökenbilim/clear.png)
 
 - **clarus**(Latin)> **cler**(Eski Fransızca) > **clear**(Orta İngilizce)
