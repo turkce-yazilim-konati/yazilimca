@@ -52,6 +52,6 @@ yazdir('Liste:', liste)
 ```
 **ÇIKTI**
 ```
-List: []
+Liste: []
 ```
 # Ek Bilgiler - Nedenler - Açıklamalar
