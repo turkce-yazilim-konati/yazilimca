@@ -9,7 +9,7 @@
 
 **Düzey:** Başlangıç | Askıda | Bütülmüş
 
-# "???????" Sözcüğünün Kökeni
+# "encode" Sözcüğünün Kökeni
 ![Görsel](/belgelik/görseller/kökenbilim/encode.png)
 
 - **codex**(Latin) + **codic**(Latin) > **codex**(İngilizce) > **en** + **code**(Orta İngilizce) > **encode**
