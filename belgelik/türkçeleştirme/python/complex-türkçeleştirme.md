@@ -42,7 +42,7 @@ print(z)
 ```
 
 # "complex" Sözcüğünü Türkçeleştirme
-**Clear** sözcüğü Türkçede **karmaşık,karışık** gibi anlamlara gelir.
+**Complex** sözcüğü Türkçede **karmaşık,karışık** gibi anlamlara gelir.
 
 # complex() Kullanımının Türkçeye Uyarlanması
 
