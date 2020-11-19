@@ -47,20 +47,20 @@ print(z)
 # complex() Kullanımının Türkçeye Uyarlanması
 
 **AÇIKLAMA**
-karmasık() yöntemi, gerçek ve sanal kısımlar sağlandığında karmaşık bir sayı döndürür veya bir dizeyi karmaşık bir sayıya dönüştürür.
+karmasik() yöntemi, gerçek ve sanal kısımlar sağlandığında karmaşık bir sayı döndürür veya bir dizeyi karmaşık bir sayıya dönüştürür.
 
 **GİRDİ**
 ```
-z = karmasık(2, -3)
+z = karmasik(2, -3)
 yazdir(z)
 
-z = karmasık(1)
+z = karmasik(1)
 yazdir(z)
 
-z = karmasık()
+z = karmasik()
 yazdir(z)
 
-z = karmasık('5-9j')
+z = karmasik('5-9j')
 yazdir(z)
 ```
 **ÇIKTI**
