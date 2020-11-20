@@ -1,34 +1,60 @@
-# "Assert" kelimesinin isim kökeni aşağıdaki gibidir ;
-![GitHub Logo](/belgelik/görseller/etimoloji/assert.png)<br>
-#### Assertus>Asserö>Asserere>Assert<br>
-#### **"Assert" kelimesi Türkçe'de "ikna etmek,ileri sürmek,savunmak" anlamına gelir.**
-#### **Assert fonksiyonu,belirli bir ifadenin doğru olup olmadığını test eder.**
-# assert() Fonksiyonunun Yazılım Dillerindeki Kullanımı ;
-## **PYTHON**
-### Girdisi ;
+# Ön Bilgiler
+**Amaç:** Türkçeleştirme
+
+**Dil:** Python
+
+**Konu:** assert()
+
+**Başlangıç Güngeni:** 20 11 2020
+
+**Düzey:** Başlangıç
+
+# "assert" Sözcüğünün Kökeni
+![Görsel](/belgelik/görseller/kökenbilim/assert.png)
+
+- **ad**(Latince) + **serere**(Latince) > **asserere**(Latince) > **assert**
+
+# assert() Kullanımı
+
+**AÇIKLAMA**
+`assert()`fonksiyonu,belirli bir ifadenin doğru olup olmadığını test eder.
+
+**GİRDİ**
 ```
-x = "hello"
-assert x == "hello"
-assert x == "goodbye"
+def avg(marks):
+    assert len(marks) != 0
+    return sum(marks)/len(marks)
+
+mark1 = []
+print("Average of mark1:",avg(mark1))
 ```
-### Çıktısı ;
+**ÇIKTI**
 ```
-Traceback (most recent call last):
-  File "demo_ref_keyword_assert.py", line 5, in <module>
-    assert x == "goodbye"
-  AssertionError
+AssertionError
 ```
-## **JAVA SCRİPT(Node.js)**
-*`assert(ifade,mesaj);` şeklinde kullanılır.*<br>
-### Kullanımı ;
+# "assert" Sözcüğünü Türkçeleştirme
+**Assert** sözcüğü Türkçede **iddia etmek,savunmak,söylemek** gibi anlamlara gelir.
+
+# assert() Kullanımının Türkçeye Uyarlanması
+
+**AÇIKLAMA**
+.........................
+
+**GİRDİ**
 ```
-var assert = require('assert');
-assert(50 > 70, "My message goes here");
+.......
+.....
+.............
+.......
 ```
-### Çıktısı ;
+**ÇIKTI**
 ```
-C:\Users\My Name>node assertnd.js
-AssertionError: My message goes here
+.......
+..........
 ```
+# Ek Bilgiler - Nedenler - Açıklamalar
+
+
+
 
 
