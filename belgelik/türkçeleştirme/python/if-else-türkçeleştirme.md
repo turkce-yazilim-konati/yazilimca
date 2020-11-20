@@ -22,7 +22,7 @@
 # if-else Kullanımı
 
 **AÇIKLAMA**
-`if(),else()`ifadeleri,Python'da koşul ve döngü sistemlerini oluşturmamızı sağlar. 
+`if(),else()`ifadeleri,Python'da koşul sistemini oluşturmamızı sağlar. 
 
 **GİRDİ**
 ```
