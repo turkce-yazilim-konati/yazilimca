@@ -1,12 +1,25 @@
-# "Center" sözcüğünün kökeni
-![GitHub Logo](/belgelik/görseller/etimoloji/center.png)
-#### Kentron>Centrum>Centre>Center
-#### "Center" kelimesi Türkçe'de "merkez,orta,odak" anlamına gelir.
-#### "Center()" metodu,dolgu karakterini (boşluk varsayılandır) kullanarak dizeyi ortaya hizalar.
-# "Center()" Metodunun Yazılım Dillerindeki Kullanımı ;
-## **PYTHON**
-*`string.center(dolgu karakterinin sayısı)`şeklinde kullanılır.*
-### Girdisi ;
+# Ön Bilgiler
+**Amaç:** Türkçeleştirme
+
+**Dil:** Python
+
+**Konu:** center()
+
+**Başlangıç Güngeni:** 20 11 2020
+
+**Düzey:** Başlangıç 
+
+# "center" Sözcüğünün Kökeni
+![Görsel](/belgelik/görseller/kökenbilim/center.png)
+
+- **kentron**(Yunanca) + **centrum**(Latince) > **centre**(Geç-Orta İngilizce)
+
+# center() Kullanımı
+
+**AÇIKLAMA**
+`center()` yöntemi,dolgu karakterini(boşluk varsayılandır) kullanarak dizeyi ortaya hizalar.
+
+**GİRDİ**
 ```
 txt = "karpuz"
 
@@ -14,26 +27,35 @@ x = txt.center(20)
 
 print(x)
 ```
-### Çıktısı ;
+**ÇIKTI**
 ```
           karpuz
 ```
-### ---------------------------------------------------------------------------
-*`string.center(dolgu karakterinin sayısı , "karakter")`şeklinde kullanılır.*
-### Girdisi ;
-```
-txt = "karpuz"
 
-x = txt.center(20, "O")
+# "center" Sözcüğünü Türkçeleştirme
+**Center** sözcüğü Türkçede **merkez,orta,odak** anlamına gelir.
 
-print(x)
+# center() Kullanımının Türkçeye Uyarlanması
+
+**AÇIKLAMA**
+`merkez()` yöntemi,dolgu karakterini(boşluk varsayılandır) kullanarak dizeyi ortaya hizalar.
+
+**GİRDİ**
 ```
-### Çıktısı ;
+metin = "karpuz"
+
+x = metin.merkez(20)
+
+yazdir(x)
 ```
-OOOOOOOkarpuzOOOOOOO
+**ÇIKTI**
 ```
+          karpuz
+```
+# Ek Bilgiler - Nedenler - Açıklamalar
 
 
+ 
 
 
 
