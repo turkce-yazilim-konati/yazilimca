@@ -17,22 +17,22 @@
 # break Kullanımı
 
 **AÇIKLAMA**
-`break` ifadesi,döngülerin içinde kullanılır.Döngüler, test ifadesi yanlış olana kadar bir kod bloğu üzerinde yinelenir ancak bazen test ifadesini kontrol etmeden geçerli yinelemeyi veya hatta tüm döngüyü sonlandırmak isteriz.Bu durumlarda break ifadesi kullanılır.
+`break` ifadesi, döngülerin içinde kullanılır. Döngüler, test ifadesi yanlış olana dek bir kod bloğu üzerinde yinelenir ancak bazen test ifadesini kontrol etmeden geçerli yinelemeyi hatta tüm döngüyü sonlandırmak isteriz. Bu durumlarda break ifadesi kullanılır.
 
 **GİRDİ**
 ```
-for val in "string":
+for val in "girdi":
     if val == "i":
         break
     print(val)`
-print("The end")`
+print("Son")`
 ```
 **ÇIKTI**
 ```
-s
-t
+g
 r
-The end
+d
+Son
 ```
 # "break" Sözcüğünü Türkçeleştirme
 **Break** sözcüğü Türkçede **kırmak,ara,mola** gibi anlamlara gelir.
@@ -40,22 +40,22 @@ The end
 # break Kullanımının Türkçeye Uyarlanması
 
 **AÇIKLAMA**
-`kir` ifadesi,döngülerin içinde kullanılır.Döngüler, test ifadesi yanlış olana kadar bir kod bloğu üzerinde yinelenir ancak bazen test ifadesini kontrol etmeden geçerli yinelemeyi veya hatta tüm döngüyü sonlandırmak isteriz.Bu durumlarda break ifadesi kullanılır.
+`kır` ifadesi,döngülerin içinde kullanılır.Döngüler, test ifadesi yanlış olana kadar bir kod bloğu üzerinde yinelenir ancak bazen test ifadesini kontrol etmeden geçerli yinelemeyi veya hatta tüm döngüyü sonlandırmak isteriz.Bu durumlarda break ifadesi kullanılır.
 
 **GİRDİ**
 ```
-icin deger in "string":
-    eger deger == "i":
-        kir
-    yazdir(deger)`
-yazdir("The end")`
+değer içi "girdi" için:
+    değer == "i" ise:
+        kır
+    (deger)yazdır`
+("Son")yazdır`
 ```
 **ÇIKTI**
 ```
-s
-t
+g
 r
-The end
+d
+Son
 ```
 # Ek Bilgiler - Nedenler - Açıklamalar
 
