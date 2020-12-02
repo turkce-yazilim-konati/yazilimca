@@ -17,7 +17,7 @@
 # assert() Kullanımı
 
 **AÇIKLAMA**
-`assert()`fonksiyonu,belirli bir ifadenin doğru olup olmadığını test eder.
+`assert()`fonksiyonu,belirli bir ifadenin doğru olup olmadığını sınar.
 
 **GİRDİ**
 ```
@@ -33,19 +33,21 @@ print("Average of mark1:",avg(mark1))
 AssertionError
 ```
 # "assert" Sözcüğünü Türkçeleştirme
-**Assert** sözcüğü Türkçede **iddia etmek,savunmak,söylemek** gibi anlamlara gelir.
+**Assert** sözcüğü Türkçede **iddia etmek, savlamak, savunmak, söylemek** gibi anlamlara gelir.
 
 # assert() Kullanımının Türkçeye Uyarlanması
 
 **AÇIKLAMA**
-.........................
+doğrulamak
 
 **GİRDİ**
 ```
-.......
-.....
-.............
-.......
+def (marks)avg:
+    (marks)boyu != 0 doğrula:
+    (marks)toplamı/(marks)boyu döndür
+
+mark1 = []
+("Average of mark1:",avg(mark1))yaz
 ```
 **ÇIKTI**
 ```
