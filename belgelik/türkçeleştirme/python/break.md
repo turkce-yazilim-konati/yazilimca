@@ -47,8 +47,8 @@ Son
 değer içi "girdi" için:
     değer == "i" ise:
         sı
-    (deger)yazdır`
-("Son")yazdır`
+    (deger)yaz`
+("Son")yaz`
 ```
 **ÇIKTI**
 ```
