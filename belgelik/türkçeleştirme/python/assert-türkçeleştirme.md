@@ -43,7 +43,7 @@ doğrulamak
 **GİRDİ**
 ```
 def (marks)avg:
-    (marks)boyu != 0 doğrula:
+    (marks)boyu != 0 doğrula
     (marks)toplamı/(marks)boyu döndür
 
 mark1 = []
