@@ -35,18 +35,18 @@ d
 Son
 ```
 # "break" Sözcüğünü Türkçeleştirme
-**Break** sözcüğü Türkçede **kırmak,ara,mola** gibi anlamlara gelir.
+**Break** sözcüğü Türkçede **sımak, kırmak, ara, mola** gibi anlamlara gelir.
 
 # break Kullanımının Türkçeye Uyarlanması
 
 **AÇIKLAMA**
-`kır` ifadesi,döngülerin içinde kullanılır.Döngüler, test ifadesi yanlış olana kadar bir kod bloğu üzerinde yinelenir ancak bazen test ifadesini kontrol etmeden geçerli yinelemeyi veya hatta tüm döngüyü sonlandırmak isteriz.Bu durumlarda break ifadesi kullanılır.
+`sı` ifadesi, döngülerin içinde kullanılır. Döngüler, test ifadesi yanlış olana kadar bir kod bloğu üzerinde yinelenir ancak bazen test ifadesini kontrol etmeden geçerli yinelemeyi veya hatta tüm döngüyü sonlandırmak isteriz.Bu durumlarda break ifadesi kullanılır.
 
 **GİRDİ**
 ```
 değer içi "girdi" için:
     değer == "i" ise:
-        kır
+        sı
     (deger)yazdır`
 ("Son")yazdır`
 ```
