@@ -24,8 +24,8 @@
 for val in "girdi":
     if val == "i":
         break
-    print(val)`
-print("Son")`
+    print(val)
+print("Son")
 ```
 **ÇIKTI**
 ```
@@ -47,8 +47,8 @@ Son
 değer içi "girdi" için:
     değer == "i" ise:
         sı
-    (değer)yaz`
-("Son")yaz`
+    (değer)yaz
+("Son")yaz
 ```
 **ÇIKTI**
 ```
