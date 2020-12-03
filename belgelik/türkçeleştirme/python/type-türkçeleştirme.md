@@ -38,10 +38,10 @@ a = "turkce yazilim konati"
 b = 10
 c = 2.5
 d = True
-yazdir(türtürtürtür(a))
-yazdir(türtürtür(b))
-yazdir(türtür(c))
-yazdir(tür(d))
+(tür(a))yaz
+(tür(b))yaz
+(tür(c))yaz
+(tür(d))yaz
 ```
 **ÇIKTI**
 ```
