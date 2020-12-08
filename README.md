@@ -1,4 +1,5 @@
-# YAZILIMCA - Türkçe yazılım dilleri için... Türkçe programlama için... Türkçe kodlama için
+# YAZILIMCA - Türkçenin Yazılım Dilleri
+## Türkçe yazılım dilleri için... Türkçe programlama için... Türkçe kodlama için...
 Türkçe yazılım dillerinin geliştirilmesine yönelik işler çıkarıyoruz. Türkçe Python, Türkçe Php, adı konmamış Türkçe yazılım dili... Türkçe düşün, Türkçe yaz, Türkçe çalış.
 
 ### [Tartışmalara katıl](https://github.com/turkce-yazilim-konati/yazilimca/discussions)
