@@ -1,7 +1,7 @@
 Çalışmalar sırasında kullanabileceğimiz sözlüğümüz
 
 - Yabancı Sözcük 
-  - Türkçe Sözcük 
+  - Türkçe Sözcük (Kesin olanlar **KALIN** yazılır.)
   - Öneri ve Açıklama
 -------------------------------------------------------------
 -------------------------------------------------------------
