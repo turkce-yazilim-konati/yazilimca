@@ -7,32 +7,30 @@ assignees: ''
 
 ---
 
-**Sözcük Köken Bilgisi**
+**Sözcük Kökeni**
 Sözcüklerin kökenine yönelik bilgileri anlaşılır ölçüde yazınız.
 
-**Sözcük Nerede Kullanılıyor?**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Sözcük Hangi Dillerde Var?**
+- İng: '...'
+- Ar: '...'
+- Tr: '...'
+- Kz: '...'
+- Fr: '...'
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Sözcük Türklerde (lehçeler vs) Hangi Sözcüklerle Karşılık Buluyor?**
+Sesteş, yalancı eş değer gibi konuları ele alarak anlaşılır biçimde yazınız.
+- Tr: '...' 
+-- Anlam: "..." 
+-- Açk: "..."
+- Kz: '...'
+-- Anlam: "..." 
+-- Açk: "..."
+
+KAYNAKÇA BİLGİLERİ
+Kaynak adı, varsa örkü/linki ve diğer bilgileri.
+
+**Sözcük Bilişimde Ne Anlamda?**
+Bilişimde kullanılan anlamı anlaşılır biçimde yazınız.
 
 **Sorunlar**
 Karşılaştığınız sorunlarla ilgili açıklamalar yazın.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
