@@ -1,4 +1,4 @@
-# programlama
+# PROGRAMLAMA
 
 ## Tanım
 Programlamayı tanımlayabilmemiz için öncelikle program sözcüğünü açmamız gerekir. Program sözcüğünü açabilmemiz 
@@ -9,3 +9,14 @@ Programlama ise bir işi gerçekleştirmek amacıyla yeri geldikçe iş koşturm
 uyarıcı hazırlamış olursunuz. Geleceğe yönelik karşınıza çıkmasını istediğiniz bir olay oluşturdunuz. Saat 07:00'e gelince sesi işiteceksiniz.
 İşte bu olay bir programlama işidir. Saati 07:00'a ayarlamak programlama değildir. Geleceğe yönelik bir işleyiş düzeni kurmanız programlama
 işidir. Ne olursa ne olacak gibi durumları önceden ortaya koymaktır.
+
+## Köken
+
+GREEK:"pro" + GREEK:"graphein" = GREEK:"prographein"
+prographein > programma > program
+
+# BİLGİSAYAR PROGRAMLAMA
+
+## Tanım
+Bilgisayar programlanabilir bir üründür. Bilgisayara bir dizi işlemler yaptırabilirsiniz. Bu işlemleri önceden belirleyip bilgisayarın anlayabileceği
+bir dilde yazıştığınızda bilgisayara program yazdınız demektir.
