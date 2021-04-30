@@ -4,11 +4,11 @@ Türkçe yazılım dillerinin geliştirilmesine yönelik işler çıkarıyoruz. 
 
 # Discussions bölümünde tartışmalara katıl
 
-### [Facebooktayız](https://www.facebook.com/groups/815710512519539)
+### [Facebooktayız](https://www.facebook.com/groups/turkceyazilimkonati)
 
 ### [Discorddayız](https://discord.gg/8ymtm9XPyQ)
 
 
 ## Ortak Türkçe Konatı Bizimle!
-### [Facebookta Ortak Türkçe Konatı](https://www.facebook.com/groups/8402641794)
+### [Facebookta Ortak Türkçe Konatı](https://www.facebook.com/groups/ortakturkcekonati)
 
