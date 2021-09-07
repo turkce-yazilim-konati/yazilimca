@@ -19,6 +19,8 @@ assignees: ''
 - - - [ ] [Kubbealtı Lugatı](http://lugatim.com/) içeriğinden derleme
 - - [ ] **Azerbaycan Türkçesi**
 - - - [ ] [Azərbaycan dilinin izahlı lüğəti](https://obastan.com/azerbaycan-dilinin-izahli-lugeti/) içeriğinden derleme
+- - [ ] **Gagauz Türkçesi**
+- - [ ] **Kuzey Kıbrıs Türkçesi**
 - - [ ] **İran Türkçesi**
 - - [ ] **Irak Türkçesi**
 - - [ ] **Özbek Türkçesi**
@@ -26,7 +28,6 @@ assignees: ''
 - - [ ] **Kırgız Türkçesi**
 - - [ ] **Kazak Türkçesi**
 - - [ ] **Tatar Türkçesi**
-- - [ ] **Gagauz Türkçesi**
 - - [ ] **Türkmen Türkçesi**
 - - - [ ] [Ene Dilim](http://www.enedilim.com/) içeriğinden derleme
 - - [ ] **Osmanlı Türkçesi**
