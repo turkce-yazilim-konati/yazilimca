@@ -43,6 +43,8 @@ assignees: ''
 - - - [ ] [Kazakça Sözlük - Pamukkale Üniversitesi](https://pauctle.com/kztr/index.php) içeriğinden derleme
 - - [ ] **Tatar Türkçesi**
 - - - [ ] [Tatarca Sözlük - Pamukkale Üniversitesi](https://pauctle.com/tttr/index.php) içeriğinden derleme
+- - - [ ] [tatarcasozluk.com](https://tatarcasozluk.com/) içeriğinden derleme
+
 - - [ ] **Türkmen Türkçesi**
 - - - [ ] [Ene Dilim](http://www.enedilim.com/) içeriğinden derleme
 - - - [ ] [Tatarca Sözlük - Pamukkale Üniversitesi](https://pauctle.com/tmtr/index.php) içeriğinden derleme
