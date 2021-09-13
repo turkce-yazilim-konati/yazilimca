@@ -2,7 +2,7 @@
 name: Sözcük Bilgisi
 about: Bir sözcük ile ilgili gerekli tüm bilgileri derleme işleri
 title: ''
-labels: Sözlük
+labels: ":books: Sözlük"
 assignees: ''
 
 ---
@@ -37,8 +37,11 @@ assignees: ''
 - - [ ] **Özbek Türkçesi**
 - - - [ ] [Özbekçe Sözlük - Pamukkale Üniversitesi](https://pauctle.com/uztr/index.php) içeriğinden derleme
 - - [ ] **Uygur Türkçesi**
+
 - - [ ] **Kırgız Türkçesi**
-- - - [ ] [Kırgızca Sözlük - Pamukkale Üniversitesi](https://pauctle.com/kgtr/index.php) içeriğinden derleme
+- - - [ ] [Kırgızca-Türkçe Sözlük - Pamukkale Üniversitesi](https://pauctle.com/kgtr/index.php) içeriğinden derleme
+- - - [ ] [Kırgızca-Türkçe Sözlük - Manas Üniversitesi](http://sozduk.manas.edu.kg/index.php) içeriğinden derleme
+
 - - [ ] **Kazak Türkçesi**
 - - - [ ] [Kazakça Sözlük - Pamukkale Üniversitesi](https://pauctle.com/kztr/index.php) içeriğinden derleme
 - - [ ] **Tatar Türkçesi**
@@ -52,6 +55,7 @@ assignees: ''
 - - - [ ] [Kadim Türkmen Diliniŋ Sözligi](#) içeriğinden derleme
 - - - [ ] [Türkmen Diliniŋ Söz Köki - Soltan Şah Ata Niyazow](#) içeriğinden derleme
 - - - [ ] [Türkmence Türkçe Sözlük - Talat TEKİN, Mehmet ÖLMEZ, Emine CEYLAN, Zuhal ÖLMEZ, Süer EKER](#) içeriğinden derleme
+
 - - [ ] **Osmanlı Türkçesi**
 - - - [ ] [Ahmet Vefik Paşa, Lehçe-i Osmanî - Prof. Dr. Recep TOPARLI](#) içeriğinden derleme
 - - - [ ] [Şemseddin Sâmî Kamûs-ı Türkî - Prof. Dr. Paşa YAVUZARSLAN](#) içeriğinden derleme
