@@ -2,7 +2,7 @@
 name: Sözcük Türkçeleştirme
 about: Sözcükleri seçmekte bize yardım et.
 title: ''
-labels: Türkçeleştirme
+labels: ''
 assignees: ''
 
 ---
