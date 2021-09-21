@@ -11,10 +11,11 @@
 |           |               |                |          |          |
 |           |               |                |          |          |
 |           |               |                |          |          |
-|           |               |                |          |          |
-|           |               |                |          |          |
-|           |               |                |          |          |
-|           |               |                |          |          |
+|           | editor        |                |          |          |
+| --------- | ------------- | -------------- | -------- | -------- |
+|           | developer     |                |          |          |
+| --------- | ------------- | -------------- | -------- | -------- |
+|           | board         |                |          |          |
 | --------- | ------------- | -------------- | -------- | -------- |
 |           | file          |                |          |          |
 | --------- | ------------- | -------------- | -------- | -------- |
@@ -96,4 +97,3 @@
 |string|kiriş|kiriş|kiriş|dizgin, ip, sicim, kiriş| https://github.com/turkce-yazilim-konati/yazilimca/discussions/47 |
 |bool, boolean||||koşgül, ikigül| https://github.com/turkce-yazilim-konati/yazilimca/discussions/43 |
 |keyword|açarsöz|etiket|açarsöz|parola, şifre, açarsöz, anahtar||
-|password|geçersöz|parola, şifre|geçersöz|parola, şifre, geçersöz||
